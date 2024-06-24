@@ -1,0 +1,53 @@
+.Border {
+  /* border: 2px solid black; */
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.post-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+}
+
+.post {
+  border: 2px solid pink;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  width: 100px;
+  height: 150px;
+  font-size: 2em;
+  /* font-weight: bold; */
+  background-color: rgb(201, 80, 80);
+  color:white;
+}
+
+.post h5 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.post p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+.display-page {
+  background-color: rgb(12, 10, 4);
+  border: 1px
+  solid black;
+}
+
+.update-table th,
+.update-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+

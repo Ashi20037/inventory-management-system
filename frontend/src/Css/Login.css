@@ -1,0 +1,31 @@
+.container {
+    margin-top: 0px;
+    padding: 0px;
+    background-color: pink;
+    width: 80%; /* Increase the width to 80% of the parent container */
+    max-width: 1200px; /* Set a maximum width to keep it from becoming too wide */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; 
+    /* border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .background-image {
+    background-image: url('https://img.freepik.com/premium-photo/centre-top-lighting-smooth-baby-blue-display-background_148157-149.jpg?w=1060');
+    padding-bottom: 50px;
+    background-size: cover;
+    background-position: center;
+  }
+  

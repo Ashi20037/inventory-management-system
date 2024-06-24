@@ -1,0 +1,67 @@
+.update-container {
+  background-color: lightskyblue;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.update-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.update-table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: red;
+}
+
+.update-table th, .update-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.update-table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: red;
+  color: white;
+}
+
+.update-form {
+  margin-top: 20px;
+}
+
+.update-form-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.update-form-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.update-form-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.update-form-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.update-form-button:hover {
+  background-color: #45a049;
+}
